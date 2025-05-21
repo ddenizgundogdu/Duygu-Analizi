@@ -1,0 +1,1 @@
+Dosya boyutu büyük olduğundan dolayı tüm dosyaları paylaşamadım sadece kod dosyalarını paylaşabildim.
